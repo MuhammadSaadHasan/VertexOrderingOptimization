@@ -36,7 +36,7 @@ Example:
 
 To run the search algorithms on the provided datasets, execute the following command:
 ```
-python main.py
+python VertexOrderingOptimization.py
 ```
 
 ## Algorithms
